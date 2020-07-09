@@ -1,6 +1,6 @@
 ### ::☀️  Haenara Shin ::
 
-![Avatar](profile.png)
+![Avatar](https://avatars3.githubusercontent.com/u/29536880?s=460&u=fbbd79c8d87259426f072c8bb63771504a47ceaf&v=4)
 
 > 안드로이드 개발자 신해나라 입니다. 
 
