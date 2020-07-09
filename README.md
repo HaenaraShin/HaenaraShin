@@ -1,13 +1,12 @@
 ### ::☀️  Haenara Shin ::
 
-![Avatar](https://avatars3.githubusercontent.com/u/29536880?s=460&u=fbbd79c8d87259426f072c8bb63771504a47ceaf&v=4)
-
-> 안드로이드 개발자 신해나라 입니다. 
+#### 안녕하세요 안드로이드 개발자 신해나라 입니다. 
 
 - 👨‍💻 Haenara Shin
 - 🤖 Android Developer 
 - ＠ [Kidsnote](https://www.kidsnote.biz/)
 - 📚 Android, Kotlin, RxJava, AAC
+- ✉️ [dev.haenara@gmail.com](mailto:dev.haenara@gmail.com)
 
 <!--
 **HaenaraShin/HaenaraShin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
