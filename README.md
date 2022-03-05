@@ -5,8 +5,9 @@
 - 👨‍💻 Haenara Shin
 - 🤖 Android Developer 
 - ＠ [Kidsnote](https://www.kidsnote.biz/)
-- 📚 Android, Kotlin, RxJava, AAC
+- 📚 Android, Kotlin, RxJava, AAC, TDD
 - ✉️ [dev.haenara@gmail.com](mailto:dev.haenara@gmail.com)
+- 🦄 https://haenarashin.github.io/
 
 <!--
 **HaenaraShin/HaenaraShin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
