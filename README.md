@@ -3,7 +3,7 @@
 #### 안녕하세요 안드로이드 개발자 신해나라 입니다. 
 
 - 🤖 Android Developer 
-- ＠ [LINE+](https://linepluscorp.com/)
+- ＠ LINE+
 - 📚 Android, Kotlin, RxJava, AAC, TDD
 - ✉️ [dev.haenara@gmail.com](mailto:dev.haenara@gmail.com)
 - 🦄 https://haenarashin.github.io/
