@@ -7,4 +7,4 @@
 - 📚 Android, Kotlin, RxJava, AAC, TDD
 - ✉️ [dev.haenara@gmail.com](mailto:dev.haenara@gmail.com)
 - 🦄 https://haenarashin.github.io/
-- 🔗 https://www.linkedin.com/in/해나라-신-a00548107/
+- 🔗 https://www.linkedin.com/in/haenara/
